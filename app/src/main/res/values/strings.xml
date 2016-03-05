@@ -2,5 +2,6 @@
     <string name="app_name">Tut1Git</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="dz_was_here">Dzulham was here</string>
     <string name="action_settings">Settings</string>
 </resources>
